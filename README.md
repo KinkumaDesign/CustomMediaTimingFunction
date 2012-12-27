@@ -1,4 +1,4 @@
-Approximate Robert Penner's easing equations on CAMediaTimingFunction using cubic Bezier curve
+Approximate Robert Penner's easing equations on CAMediaTimingFunction using cubic Bezier curve.
 
 ## How to Use
 
